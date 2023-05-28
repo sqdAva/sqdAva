@@ -2,9 +2,9 @@
 
 <a href="https://wakatime.com/@sqdAva" target="_blank"> 
 
-<img alt="Wakatime" src="https://wakatime.com/photo/c3703601-b13a-4039-97b9-e81a4c94a280?s=110&cache=false&time=1685302570.1133556"/> 
 
 
+<img alt="Wakatime" src="https://wakatime.com/badge/user/c3703601-b13a-4039-97b9-e81a4c94a280.svg"/>
 <br/>
 <br/> 
 
