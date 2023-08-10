@@ -8,7 +8,7 @@
 <br/>
 <br/> 
 
-<img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=sqdAva&layout=compact&custom_title=My%20Week&hide_border=true&theme=dark"/> 
+<img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=sqdAva&layout=compact&custom_title=%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1%F0%9F%A4%A1&hide_border=true&theme=dark"/> 
 
 </a> 
 
